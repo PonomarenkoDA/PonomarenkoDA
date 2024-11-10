@@ -1,15 +1,8 @@
-<!-- <h1 align="center">Привет, я Дмитрий! 👋</h1> -->
 
-<!-- <div style="text-align: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" />
-</div> -->
-<!-- <br/> -->
-<!-- Впервые познакомился с аналитикой в "Транснефтьэнерго" и с тех пор анализ данных неотъемлимая часть моего профессионального пути. -->
 ------------------------------------
-
-<div style="text-align: center;">
-    <img src="https://github.com/PonomarenkoDA/ABtesting-delivery-app/blob/main/my_gift.gif?raw=true" width="400" />
-</div>
+<p align="center">
+    <img src="https://github.com/PonomarenkoDA/ABtesting-delivery-app/blob/main/my_gift.gif?raw=true" width="500" />
+</p>
 
 ------------------------------------
 
