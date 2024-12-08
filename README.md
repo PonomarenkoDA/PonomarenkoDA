@@ -1,9 +1,4 @@
-<!-- <h1 align="center">Привет, я Дмитрий! 👋</h1> -->
-
-<p align="center">
-    <img src="https://github.com/PonomarenkoDA/ABtesting-delivery-app/blob/main/my_gift.gif?raw=true" width="500" />
-</p>
-
+ <h1 align="left">Привет, я Дмитрий! 👋</h1> 
 
 ### Обо мне:
 
