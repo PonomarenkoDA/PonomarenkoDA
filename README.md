@@ -26,6 +26,9 @@
   <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=pin&style=for-the-badge" title="Redash" alt="Redash" height="33"/>&nbsp;
   <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Tableau" alt="Tableau" height="33"/>&nbsp;
   <img src="https://img.shields.io/badge/git-white?logo=git&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="33"/>&nbsp;
+  <img src="https://img.shields.io/badge/apache%20airflow-white?style=for-the-badge&logo=airflow" title="airflow" alt="airflow" height="33"/>&nbsp;
+
+ 
 </div>
 
 ### Реализованные проекты:
