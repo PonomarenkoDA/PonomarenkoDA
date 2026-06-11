@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/postgresql-white?logo=Postgresql&logoColor=blue&style=for-the-badge" title="Postgresql" alt="Postgresql" height="33"/>&nbsp;
   <img src="https://img.shields.io/badge/Clickhouse-white?logo=Clickhouse&style=for-the-badge" title="ClickHouse" alt="ClickHouse" height="33"/>&nbsp;
   <img src="https://img.shields.io/badge/seaborn-white?logo=plotly&logoColor=black&style=for-the-badge" title="Seaborn" alt="Seaborn" height="33"/>&nbsp;
-  <img src="https://img.shields.io/badge/matplotlib-white?logo=matplotlib&logoColor=black&labelColor=white&color=white&style=for-the-badge" title="Matplotlib" alt="Matplotlib" height="33"/>&nbsp;
   <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=pin&style=for-the-badge" title="Redash" alt="Redash" height="33"/>&nbsp;
   <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Tableau" alt="Tableau" height="33"/>&nbsp;
   <img src="https://img.shields.io/badge/git-white?logo=git&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="33"/>&nbsp;
